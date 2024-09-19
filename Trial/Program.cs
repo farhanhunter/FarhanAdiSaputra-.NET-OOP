@@ -1,80 +1,79 @@
 ﻿using System;
 
-namespace EMoney
+namespace Trial
 {
-    public class User
-    {
-        public string nama;
-        public string role;
-        public double saldo;
+    //public class User
+    //{
+    //    public string nama;
+    //    public string role;
+    //    public double saldo;
 
-        public string Nama
-        {
-            get { return nama; }
-            set { nama = value; }
-        }
+    //    public string Nama
+    //    {
+    //        get { return nama; }
+    //        set { nama = value; }
+    //    }
 
-        public string Role
-        {
-            get { return role; }
-            set { role = value; }
-        }
+    //    public string Role
+    //    {
+    //        get { return role; }
+    //        set { role = value; }
+    //    }
 
-        public double Saldo
-        {
-            get { return saldo; }
-            set
-            {
-                if (value >= 0)
-                {
-                    saldo = value;
-                }
-                else
-                {
-                    throw new ArgumentException("Saldo tidak boleh negatif");
-                }
-            }
+    //    public double Saldo
+    //    {
+    //        get { return saldo; }
+    //        set
+    //        {
+    //            if (value >= 0)
+    //            {
+    //                saldo = value;
+    //            }
+    //            else
+    //            {
+    //                throw new ArgumentException("Saldo tidak boleh negatif");
+    //            }
+    //        }
 
-        }
+    //    }
 
-        public User(string nama, string role, double saldo)
-        {
-            Nama = nama;
-            Role = role;
-            Saldo = saldo;
-        }
+    //    public User(string nama, string role, double saldo)
+    //    {
+    //        Nama = nama;
+    //        Role = role;
+    //        Saldo = saldo;
+    //    }
 
-    }
+    //}
 
-    public class Customer : User
-    {
-        public Customer(string nama, double saldo) : base(nama, "Customer", saldo) { }
+    //public class Customer : User
+    //{
+    //    public Customer(string nama, double saldo) : base(nama, "Customer", saldo) { }
+    //    public void checkMoney()
+    //    {
+    //        Console.WriteLine($"Saldo {Nama}: {Saldo}");
+    //    }
+    //}
 
-        public void checkMoney()
-        {
-            Console.WriteLine($"Saldo {Nama}: {Saldo}");
-        }
-    }
+    //public class Admin : User
+    //{
+    //    public Admin(string nama, double saldo) : base(nama, "Admin", saldo) { }
 
-    public class Admin : User
-    {
-        public Admin(string nama, double saldo) : base(nama, "Admin", saldo) { }
+    //    // Method untuk menambah saldo ke customer
+    //    public void addMoney(Customer customer, double jumlah)
+    //    {
+    //        if (jumlah > 0)
+    //        {
+    //            customer.Saldo += jumlah;
+    //            Console.WriteLine($"Saldo {customer.Nama} berhasil ditambah {jumlah}, saldo sekarang: {customer.Saldo}");
+    //        }
+    //        else
+    //        {
+    //            Console.WriteLine("Jumlah saldo yang ditambahkan harus lebih dari 0.");
+    //        }
+    //    }
 
-        // Method untuk menambah saldo ke customer
-        public void addMoney(Customer customer, double jumlah)
-        {
-            if (jumlah > 0)
-            {
-                customer.Saldo += jumlah;
-                Console.WriteLine($"Saldo {customer.Nama} berhasil ditambah {jumlah}, saldo sekarang: {customer.Saldo}");
-            }
-            else
-            {
-                Console.WriteLine("Jumlah saldo yang ditambahkan harus lebih dari 0.");
-            }
-        }
-
-    }
+    //}
     public class Program
     {
         static void Main(string[] args)

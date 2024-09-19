@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{20FE5B09-3A40-482C-8193-AEDF992E1270}|Trial\\Trial.csproj|solutionrelative:trial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{20FE5B09-3A40-482C-8193-AEDF992E1270}|Trial\\Trial.csproj|c:\\users\\farhan\\source\\repos\\hello world\\trial\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FE5B09-3A40-482C-8193-AEDF992E1270}|Trial\\Trial.csproj|solutionrelative:trial\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FE5B09-3A40-482C-8193-AEDF992E1270}|Trial\\Trial.csproj|c:\\users\\farhan\\source\\repos\\hello world\\trial\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FE5B09-3A40-482C-8193-AEDF992E1270}|Trial\\Trial.csproj|solutionrelative:trial\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FE5B09-3A40-482C-8193-AEDF992E1270}|Trial\\Trial.csproj|c:\\users\\farhan\\source\\repos\\hello world\\trial\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FE5B09-3A40-482C-8193-AEDF992E1270}|Trial\\Trial.csproj|solutionrelative:trial\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE2526B-00D7-4A3A-9350-5E3E2202DEDF}|EMoney\\EMoney.csproj|c:\\users\\farhan\\source\\repos\\hello world\\emoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE2526B-00D7-4A3A-9350-5E3E2202DEDF}|EMoney\\EMoney.csproj|solutionrelative:emoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B925661-4FE2-4AEE-877C-0C1D7BD876FA}|UserBootcamp\\UserBootcamp.csproj|c:\\users\\farhan\\source\\repos\\hello world\\userbootcamp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B925661-4FE2-4AEE-877C-0C1D7BD876FA}|UserBootcamp\\UserBootcamp.csproj|solutionrelative:userbootcamp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F6502ECF-A892-4292-9D28-213B074B0D76}|Inheritance\\Inheritance.csproj|c:\\users\\farhan\\source\\repos\\hello world\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6502ECF-A892-4292-9D28-213B074B0D76}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEE2526B-00D7-4A3A-9350-5E3E2202DEDF}|EMoney\\EMoney.csproj|c:\\users\\farhan\\source\\repos\\hello world\\emoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE2526B-00D7-4A3A-9350-5E3E2202DEDF}|EMoney\\EMoney.csproj|solutionrelative:emoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9889717A-AD87-4FC2-8BBA-FAEE63B990BA}|Encapsulation\\Encapsulation.csproj|c:\\users\\farhan\\source\\repos\\hello world\\encapsulation\\encapsulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -66,17 +78,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Trial\\Admin.cs",
+              "RelativeDocumentMoniker": "Trial\\Admin.cs",
+              "ToolTip": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Trial\\Admin.cs",
+              "RelativeToolTip": "Trial\\Admin.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:43:51.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Trial\\Customer.cs",
+              "RelativeDocumentMoniker": "Trial\\Customer.cs",
+              "ToolTip": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Trial\\Customer.cs",
+              "RelativeToolTip": "Trial\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:43:19.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Trial\\User.cs",
+              "RelativeDocumentMoniker": "Trial\\User.cs",
+              "ToolTip": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Trial\\User.cs",
+              "RelativeToolTip": "Trial\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:43:11.332Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Trial\\Program.cs",
               "RelativeDocumentMoniker": "Trial\\Program.cs",
-              "ToolTip": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Trial\\Program.cs*",
-              "RelativeToolTip": "Trial\\Program.cs*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwEMAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Trial\\Program.cs",
+              "RelativeToolTip": "Trial\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:26:11.174Z",
               "EditorCaption": ""
@@ -89,14 +140,14 @@
               "RelativeDocumentMoniker": "EMoney\\Program.cs",
               "ToolTip": "C:\\Users\\Farhan\\source\\repos\\Hello World\\EMoney\\Program.cs",
               "RelativeToolTip": "EMoney\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAA/wEoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:20:50.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Encapsulation.csproj",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Encapsulation\\Encapsulation.csproj",
               "RelativeDocumentMoniker": "Encapsulation\\Encapsulation.csproj",
@@ -108,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Encapsulation\\Program.cs",
               "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
@@ -121,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Inheritance\\Program.cs",
               "RelativeDocumentMoniker": "Inheritance\\Program.cs",
@@ -134,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UserManagement.csproj",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Object \u0026 Class\\UserManagement.csproj",
               "RelativeDocumentMoniker": "Object \u0026 Class\\UserManagement.csproj",
@@ -146,20 +197,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\UserBootcamp\\Program.cs",
               "RelativeDocumentMoniker": "UserBootcamp\\Program.cs",
               "ToolTip": "C:\\Users\\Farhan\\source\\repos\\Hello World\\UserBootcamp\\Program.cs",
               "RelativeToolTip": "UserBootcamp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T06:35:20.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\Object \u0026 Class\\Program.cs",
               "RelativeDocumentMoniker": "Object \u0026 Class\\Program.cs",
@@ -171,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\ConsoleAppRandomize\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppRandomize\\Program.cs",
@@ -183,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\ConsoleAppLINQ\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppLINQ\\Program.cs",
@@ -195,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "MstProduct.cs",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\ConsoleAppCopy\\MstProduct.cs",
               "RelativeDocumentMoniker": "ConsoleAppCopy\\MstProduct.cs",
@@ -207,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ConsoleApp.csproj",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\ConsoleApp\\ConsoleApp.csproj",
               "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.csproj",
@@ -219,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\ConsoleAppCopy\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppCopy\\Program.cs",
@@ -231,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Farhan\\source\\repos\\Hello World\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
