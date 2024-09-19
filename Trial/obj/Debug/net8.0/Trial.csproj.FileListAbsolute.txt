@@ -1,0 +1,14 @@
+C:\Users\Farhan\source\repos\Hello World\Trial\bin\Debug\net8.0\Trial.exe
+C:\Users\Farhan\source\repos\Hello World\Trial\bin\Debug\net8.0\Trial.deps.json
+C:\Users\Farhan\source\repos\Hello World\Trial\bin\Debug\net8.0\Trial.runtimeconfig.json
+C:\Users\Farhan\source\repos\Hello World\Trial\bin\Debug\net8.0\Trial.dll
+C:\Users\Farhan\source\repos\Hello World\Trial\bin\Debug\net8.0\Trial.pdb
+C:\Users\Farhan\source\repos\Hello World\Trial\obj\Debug\net8.0\Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhan\source\repos\Hello World\Trial\obj\Debug\net8.0\Trial.AssemblyInfoInputs.cache
+C:\Users\Farhan\source\repos\Hello World\Trial\obj\Debug\net8.0\Trial.AssemblyInfo.cs
+C:\Users\Farhan\source\repos\Hello World\Trial\obj\Debug\net8.0\Trial.csproj.CoreCompileInputs.cache
+C:\Users\Farhan\source\repos\Hello World\Trial\obj\Debug\net8.0\Trial.dll
+C:\Users\Farhan\source\repos\Hello World\Trial\obj\Debug\net8.0\refint\Trial.dll
+C:\Users\Farhan\source\repos\Hello World\Trial\obj\Debug\net8.0\Trial.pdb
+C:\Users\Farhan\source\repos\Hello World\Trial\obj\Debug\net8.0\Trial.genruntimeconfig.cache
+C:\Users\Farhan\source\repos\Hello World\Trial\obj\Debug\net8.0\ref\Trial.dll

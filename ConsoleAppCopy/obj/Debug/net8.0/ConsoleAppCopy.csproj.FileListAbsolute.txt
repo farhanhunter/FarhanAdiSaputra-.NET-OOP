@@ -1,0 +1,14 @@
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\bin\Debug\net8.0\ConsoleAppCopy.exe
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\bin\Debug\net8.0\ConsoleAppCopy.deps.json
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\bin\Debug\net8.0\ConsoleAppCopy.runtimeconfig.json
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\bin\Debug\net8.0\ConsoleAppCopy.dll
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\bin\Debug\net8.0\ConsoleAppCopy.pdb
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\obj\Debug\net8.0\ConsoleAppCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\obj\Debug\net8.0\ConsoleAppCopy.AssemblyInfoInputs.cache
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\obj\Debug\net8.0\ConsoleAppCopy.AssemblyInfo.cs
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\obj\Debug\net8.0\ConsoleAppCopy.csproj.CoreCompileInputs.cache
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\obj\Debug\net8.0\ConsoleAppCopy.dll
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\obj\Debug\net8.0\refint\ConsoleAppCopy.dll
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\obj\Debug\net8.0\ConsoleAppCopy.pdb
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\obj\Debug\net8.0\ConsoleAppCopy.genruntimeconfig.cache
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppCopy\obj\Debug\net8.0\ref\ConsoleAppCopy.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppRandomize/1.0.0": {
+        "runtime": {
+          "ConsoleAppRandomize.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppRandomize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\bin\Debug\net8.0\UserBootcamp.exe
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\bin\Debug\net8.0\UserBootcamp.deps.json
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\bin\Debug\net8.0\UserBootcamp.runtimeconfig.json
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\bin\Debug\net8.0\UserBootcamp.dll
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\bin\Debug\net8.0\UserBootcamp.pdb
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\obj\Debug\net8.0\UserBootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\obj\Debug\net8.0\UserBootcamp.AssemblyInfoInputs.cache
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\obj\Debug\net8.0\UserBootcamp.AssemblyInfo.cs
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\obj\Debug\net8.0\UserBootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\obj\Debug\net8.0\UserBootcamp.dll
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\obj\Debug\net8.0\refint\UserBootcamp.dll
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\obj\Debug\net8.0\UserBootcamp.pdb
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\obj\Debug\net8.0\UserBootcamp.genruntimeconfig.cache
+C:\Users\Farhan\source\repos\Hello World\UserBootcamp\obj\Debug\net8.0\ref\UserBootcamp.dll

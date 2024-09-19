@@ -1,0 +1,14 @@
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\bin\Debug\net8.0\ConsoleAppLINQ.exe
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\bin\Debug\net8.0\ConsoleAppLINQ.deps.json
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\bin\Debug\net8.0\ConsoleAppLINQ.runtimeconfig.json
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\bin\Debug\net8.0\ConsoleAppLINQ.dll
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\bin\Debug\net8.0\ConsoleAppLINQ.pdb
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\obj\Debug\net8.0\ConsoleAppLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\obj\Debug\net8.0\ConsoleAppLINQ.AssemblyInfoInputs.cache
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\obj\Debug\net8.0\ConsoleAppLINQ.AssemblyInfo.cs
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\obj\Debug\net8.0\ConsoleAppLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\obj\Debug\net8.0\ConsoleAppLINQ.dll
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\obj\Debug\net8.0\refint\ConsoleAppLINQ.dll
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\obj\Debug\net8.0\ConsoleAppLINQ.pdb
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\obj\Debug\net8.0\ConsoleAppLINQ.genruntimeconfig.cache
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppLINQ\obj\Debug\net8.0\ref\ConsoleAppLINQ.dll

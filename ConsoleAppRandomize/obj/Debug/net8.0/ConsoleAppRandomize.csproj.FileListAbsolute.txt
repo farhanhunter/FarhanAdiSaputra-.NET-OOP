@@ -1,0 +1,14 @@
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\bin\Debug\net8.0\ConsoleAppRandomize.exe
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\bin\Debug\net8.0\ConsoleAppRandomize.deps.json
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\bin\Debug\net8.0\ConsoleAppRandomize.runtimeconfig.json
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\bin\Debug\net8.0\ConsoleAppRandomize.dll
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\bin\Debug\net8.0\ConsoleAppRandomize.pdb
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\obj\Debug\net8.0\ConsoleAppRandomize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\obj\Debug\net8.0\ConsoleAppRandomize.AssemblyInfoInputs.cache
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\obj\Debug\net8.0\ConsoleAppRandomize.AssemblyInfo.cs
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\obj\Debug\net8.0\ConsoleAppRandomize.csproj.CoreCompileInputs.cache
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\obj\Debug\net8.0\ConsoleAppRandomize.dll
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\obj\Debug\net8.0\refint\ConsoleAppRandomize.dll
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\obj\Debug\net8.0\ConsoleAppRandomize.pdb
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\obj\Debug\net8.0\ConsoleAppRandomize.genruntimeconfig.cache
+C:\Users\Farhan\source\repos\Hello World\ConsoleAppRandomize\obj\Debug\net8.0\ref\ConsoleAppRandomize.dll

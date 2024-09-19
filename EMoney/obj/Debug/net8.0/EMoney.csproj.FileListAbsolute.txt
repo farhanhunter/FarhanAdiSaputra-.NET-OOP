@@ -1,0 +1,4 @@
+C:\Users\Farhan\source\repos\Hello World\EMoney\obj\Debug\net8.0\EMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhan\source\repos\Hello World\EMoney\obj\Debug\net8.0\EMoney.AssemblyInfoInputs.cache
+C:\Users\Farhan\source\repos\Hello World\EMoney\obj\Debug\net8.0\EMoney.AssemblyInfo.cs
+C:\Users\Farhan\source\repos\Hello World\EMoney\obj\Debug\net8.0\EMoney.csproj.CoreCompileInputs.cache
